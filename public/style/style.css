@@ -76,7 +76,7 @@
 .home-top {
   height: 100vh;
   padding-top: 33vh;
-  background: url("../src/img/homebckg.jpg") no-repeat;
+  background: url("../../public/img/homebckg.jpg") no-repeat;
   background-size: cover; }
   .home-top h1 {
     color: #ffffff;
@@ -122,19 +122,19 @@
     background: rgba(0, 0, 0, 0.7);
     height: 190px; }
   .story-of-brands .highland {
-    background: url("../src/img/highland.png") no-repeat;
+    background: url("../../public/img/highland.png") no-repeat;
     background-size: cover; }
   .story-of-brands .keush {
-    background: url("../src/img/keush.jpg") no-repeat;
+    background: url("../../public/img/keush.jpg") no-repeat;
     background-size: cover; }
   .story-of-brands .kataro {
-    background: url("../src/img/kataro.jpg") no-repeat;
+    background: url("../../public/img/kataro.jpg") no-repeat;
     background-size: cover; }
   .story-of-brands .zabel {
-    background: url("../src/img/zabel.jpg") no-repeat;
+    background: url("../../public/img/zabel.jpg") no-repeat;
     background-size: cover; }
   .story-of-brands .zulal {
-    background: url("../src/img/zulal.jpg") no-repeat;
+    background: url("../../public/img/zulal.jpg") no-repeat;
     background-size: cover; }
 
 .presentation {
@@ -142,7 +142,7 @@
   .presentation p {
     font-size: 16px; }
   .presentation .grape {
-    background: url("../src/img/grape-bck.jpg") no-repeat;
+    background: url("../../public/img/grape-bck.jpg") no-repeat;
     height: 400px;
     background-size: cover; }
   .presentation .history {
@@ -167,7 +167,7 @@
     .presentation .sun-icon img {
       margin-bottom: 50px; }
   .presentation .koor-teaser {
-    background: url("../src/img/koor-teaser.png") no-repeat;
+    background: url("../../public/img/koor-teaser.png") no-repeat;
     height: 400px;
     background-size: cover; }
   .presentation .winnery-icon {
@@ -207,13 +207,13 @@
 /********************************** About Section *************************************/
 .first-image {
   height: 55vh;
-  background: url(../src/img/about-first.jpg) no-repeat;
+  background: url(../../public/img/about-first.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 36%; }
 
 .second-image {
   height: 55vh;
-  background: url(../src/img/about-second.jpg) no-repeat;
+  background: url("../../public/img/about-second.jpg") no-repeat;
   background-size: cover;
   background-position: 50% 60%; }
 
@@ -230,7 +230,7 @@
   height: 91vh; }
 .contact .contact-details {
   height: 91vh;
-  background: url(../src/img/wine-cellar.jpg) no-repeat;
+  background: url(../../public/img/wine-cellar.jpg) no-repeat;
   background-size: cover;
   background-position: top center;
   padding: 0; }
@@ -252,7 +252,7 @@
 /********************************** Product  Section *************************************/
 .product-top-image {
   height: 55vh;
-  background: url(../src/img/product-top.png) no-repeat;
+  background: url(../../public/img/product-top.png) no-repeat;
   background-size: cover;
   background-position: 50% 36%; }
 
@@ -285,27 +285,27 @@
   background: #eeeeee; }
   .preview-images .preview-1 {
     height: 300px;
-    background: url(../src/img/preview-one.jpg) no-repeat;
+    background: url(../../public/img/preview-one.jpg) no-repeat;
     background-size: cover;
     background-position: center; }
   .preview-images .preview-2 {
     height: 300px;
-    background: url(../src/img/preview-two.jpg) no-repeat;
+    background: url(../../public/img/preview-two.jpg) no-repeat;
     background-size: cover;
     background-position: center; }
   .preview-images .preview-3 {
     height: 300px;
-    background: url(../src/img/preview-three.jpg) no-repeat;
+    background: url(../../public/img/preview-three.jpg) no-repeat;
     background-size: cover;
     background-position: center; }
   .preview-images .preview-4 {
     height: 300px;
-    background: url(../src/img/grape-bck.jpg) no-repeat;
+    background: url(../../public/img/grape-bck.jpg) no-repeat;
     background-size: cover;
     background-position: center; }
   .preview-images .preview-5 {
     height: 300px;
-    background: url(../src/img/zulal.jpg) no-repeat;
+    background: url(../../public/img/zulal.jpg) no-repeat;
     background-size: cover;
     background-position: center; }
   .preview-images .second-row {

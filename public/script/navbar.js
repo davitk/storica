@@ -34,21 +34,21 @@ function handleResize() {
         if(hash == "/") {
             if (isTop) {
                 $(".navbar-default").css({"background": "transparent", "border": "none","box-shadow": "none"});
-                $(".brand-logo").css({"background-image": "url(../src/img/logo-white.png)"});
+                $(".brand-logo").css({"background-image": "url(../../public/img/logo-white.png)"});
                 $(".navbar-nav>li>a").css({"color": "#ffffff"});
             } else {
                 $(".navbar-default").css({"background-color": "#ffffff", "border": "none", "box-shadow": "0 2px 2px -2px grey"});
-                $(".brand-logo").css({"background-image": "url(../src/img/logo-black.png)"});
+                $(".brand-logo").css({"background-image": "url(../../public/img/logo-black.png)"});
                 $(".navbar-nav>li>a").css({"color": "#000000"});
             }
         }else if(hash !== "/") {
             if (isTop) {
                 $(".navbar-default").css({"background-color": "#ffffff", "border": "none", "box-shadow": "0 2px 2px -2px grey"});
-                $(".brand-logo").css({"background-image": "url(../src/img/logo-black.png)"});
+                $(".brand-logo").css({"background-image": "url(../../public/img/logo-black.png)"});
                 $(".navbar-nav>li>a").css({"color": "#000000"});
             }else {
                 $(".navbar-default").css({"background-color": "#ffffff", "border": "none", "box-shadow": "0 2px 2px -2px grey"});
-                $(".brand-logo").css({"background-image": "url(../src/img/logo-black.png)"});
+                $(".brand-logo").css({"background-image": "url(../../public/img/logo-black.png)"});
                 $(".navbar-nav>li>a").css({"color": "#000000"});
             }
         }
@@ -56,9 +56,9 @@ function handleResize() {
         if(hash == "/") {
             if (isTop) {
                 $(".navbar-default").css({"background": "transparent", "border": "none"});
-                $(".navbar-brand").css({"background-image": "url(../src/img/logo-white.png)"});
+                $(".navbar-brand").css({"background-image": "url(../../public/img/logo-white.png)"});
             } else {
-                $(".navbar-brand").css({"background-image": "url(../src/img/logo-white.png)"});
+                $(".navbar-brand").css({"background-image": "url(../../public/img/logo-white.png)"});
             }
         }else if(hash !== "/") {
             if (isTop) {
