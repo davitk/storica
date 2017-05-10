@@ -30,7 +30,7 @@ export default class Home extends Component {
                                 <div className="single-brand highland">
                                     <div className="dimmed"></div>
                                     <h3>Highland</h3>
-                                    <img src={require('../img/logo-white.png')}  />
+                                    <img src={require('../../public/img/logo-white.png')}  />
                                 </div>
                             </a>
                         </div>
@@ -83,7 +83,7 @@ export default class Home extends Component {
 
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 sun-icon">
-                            <img src={require('../img/climate_white.png')}  />
+                            <img src={require('../../public/img/climate_white.png')}  />
                             <p>Since ancient times, while the continental climate of high mountains
                                 contributed to the high
                                 accumulation of sugar
@@ -94,14 +94,14 @@ export default class Home extends Component {
 
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 winnery-icon">
-                            <img src={require('../img/cask.png')}  />
+                            <img src={require('../../public/img/cask.png')}  />
                             <p>Even though the historians cannot definitely say when the Armenians
                                 began to grow vines and crush the grapes into juice, it is known that the oldest
                                 winery found in Armenia is itself over 6,000 years.
                             </p>
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 video-presentation">
-                            <img src={require('../img/play-button.png')}  />
+                            <img src={require('../../public/img/play-button.png')}  />
                             <p>Video Presentation</p>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ export default class Home extends Component {
                         <h2>Distribution</h2>
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/Armenia.png')}  />
+                                <img src={require('../../public/img/Armenia.png')}  />
                                 <h4>ARMENIA</h4>
                                 <h5>Artexim</h5>
                                 <a href="">www.noyantun.am</a>
@@ -122,7 +122,7 @@ export default class Home extends Component {
 
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/Russia.png')}  />
+                                <img src={require('../../public/img/Russia.png')}  />
                                 <h4>RUSSIA</h4>
                                 <h5>NWC</h5>
                                 <a href="">www.newwineco.ru</a>
@@ -130,7 +130,7 @@ export default class Home extends Component {
                         </div>
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/United-States-of-America.png')}  />
+                                <img src={require('../../public/img/United-States-of-America.png')}  />
                                 <h4>USA</h4>
                                 <h5>USA Wine West</h5>
                                 <a href="">www.usawinewest.com</a>
@@ -138,7 +138,7 @@ export default class Home extends Component {
                         </div>
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/Sweden.png')}  />
+                                <img src={require('../../public/img/Sweden.png')}  />
                                 <h4>SWEDEN</h4>
                                 <h5>Avec Sweden AB</h5>
                                 <a href="">www.avecsweden.se</a>
@@ -146,7 +146,7 @@ export default class Home extends Component {
                         </div>
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/Japan.png')}  />
+                                <img src={require('../../public/img/Japan.png')}  />
                                 <h4>JAPAN</h4>
                                 <h5>The Ancient World</h5>
                                 <a href="">www.ancient-w.com</a>
@@ -154,7 +154,7 @@ export default class Home extends Component {
                         </div>
                         <div className="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-center">
                             <div className="single-distributor">
-                                <img src={require('../img/Australia.png')}  />
+                                <img src={require('../../public/img/Australia.png')}  />
                                 <h4>UK</h4>
                                 <h5>Armenian Wine Importers</h5>
                             </div>
