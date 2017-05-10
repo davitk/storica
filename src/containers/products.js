@@ -22,7 +22,7 @@ export default class Products extends Component {
                         <h2>Products</h2>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center">
                             <div className="single-product">
-                                <img src={require('../img/wine-1.png')}  />
+                                <img src={require('../../public/img/wine-1.png')}  />
                                 <h3>KOOR</h3>
                                 <p>Reserve</p>
                                 <a href=""><button className="more-detail">VIEW DETAILS</button></a>
@@ -30,7 +30,7 @@ export default class Products extends Component {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center">
                             <div className="single-product">
-                                <img src={require('../img/wine-2.png')}  />
+                                <img src={require('../../public/img/wine-2.png')}  />
                                 <h3>KOOR</h3>
                                 <p>Dry Red Wine</p>
                                 <a href=""><button className="more-detail">VIEW DETAILS</button></a>
@@ -38,7 +38,7 @@ export default class Products extends Component {
                         </div>
                         <div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center">
                             <div className="single-product">
-                                <img src={require('../img/wine-3.png')}  />
+                                <img src={require('../../public/img/wine-3.png')}  />
                                 <h3>KOOR</h3>
                                 <p>Voskehat</p>
                                 <a href=""><button className="more-detail">VIEW DETAILS</button></a>
